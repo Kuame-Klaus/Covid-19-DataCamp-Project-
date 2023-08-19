@@ -1,6 +1,6 @@
 # Covid-19-DataCamp-Project Upgraded
 
-During my DataCamp Data Analytics for R course, I embarked on an engaging project centered around the analysis of COVID-19 data spanning from January 2020 to March 2020. Here, I'm excited to present a selection of key findings through a series of illustrative charts. 
+During my DataCamp Data Analytics with R course, I embarked on an engaging project centered around the analysis of COVID-19 data spanning from January 2020 to March 2020. Here, I'm excited to present a selection of key findings through a series of illustrative charts. 
 
 ![worldwide trend](https://github.com/Kuame-Klaus/Covid-19-DataCamp-Project-/assets/141528444/eb600fcb-4787-49ee-9ac5-95bdfb38caba)
 
