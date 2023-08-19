@@ -12,6 +12,6 @@ During my DataCamp Data Analytics with R course, I embarked on an engaging proje
 
 ![cases not china log10](https://github.com/Kuame-Klaus/Covid-19-DataCamp-Project-/assets/141528444/6b561d2a-5f76-43b6-89be-5030e0694699)
 
-![Top 7 countries trend](https://github.com/Kuame-Klaus/Covid-19-DataCamp-Project-/assets/141528444/3ee5862f-1126-4204-8944-921ef2f05a3c)
+![top 7 cases trend](https://github.com/Kuame-Klaus/Covid19-DataCampProject/assets/141528444/251ef4ee-dd7c-43a2-a3ef-39a814ecdd38)
 
 ![Top 7 countries total](https://github.com/Kuame-Klaus/Covid-19-DataCamp-Project-/assets/141528444/e0ac692a-721b-42fb-b8eb-cf5c09d2833e)
